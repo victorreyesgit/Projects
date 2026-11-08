@@ -89,6 +89,36 @@ window.PROJECTS = {
           "description": "",
           "url": "https://victorreyesgit.github.io/Solitario_Klondike/",
           "visible": true
+        },
+        {
+          "title": "Mus",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/Mus/",
+          "visible": true
+        },
+        {
+          "title": "Tiles Breaker",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/Tiles_breaker/",
+          "visible": true
+        },
+        {
+          "title": "Sudoku",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/Sudoku/",
+          "visible": true
+        },
+        {
+          "title": "World of Words",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/WOW/",
+          "visible": true
+        },
+        {
+          "title": "Sopa de Letras",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/Sopa_de_letras/",
+          "visible": true
         }
       ]
     },
