@@ -119,6 +119,12 @@ window.PROJECTS = {
           "description": "",
           "url": "https://victorreyesgit.github.io/Sopa_de_letras/",
           "visible": true
+        },
+        {
+          "title": "Wordle",
+          "description": "",
+          "url": "https://victorreyesgit.github.io/Wordle/",
+          "visible": true
         }
       ]
     },
