@@ -1,6 +1,6 @@
 // ===== Settings: change these if your repo differs =====
 var OWNER  = "victorreyesgit";
-var REPO   = "Home";
+var REPO   = "Projects";
 var BRANCH = "main";
 var FILE   = "projects.js";
 // =======================================================

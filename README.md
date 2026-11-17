@@ -9,11 +9,11 @@ All content lives in `projects.js`. Opening `index.html` by double-click works.
 - `admin.html`, `admin.js`: editing page, opened from the **⚙ Admin** button at the top right of the site (it needs your token to do anything)
 
 ## 1. Upload and publish (GitHub Pages)
-1. Your repo is `Home`. If it already exists, back up what is in it; the new `index.html` and `style.css` replace any with the same name.
+1. Your repo is `Projects`. If it already exists, back up what is in it; the new `index.html` and `style.css` replace any with the same name.
 2. On github.com open the repo, **Add file → Upload files**, drag in all files from this zip, then **Commit changes** (branch `main`).
 3. **Settings → Pages**: Source = **Deploy from a branch**, branch `main`, folder `/ (root)`. Save.
-4. After about a minute the site is at `https://victorreyesgit.github.io/Home/`.
-   The admin page is at `https://victorreyesgit.github.io/Home/admin.html` (also reachable from the **⚙ Admin** button on the site).
+4. After about a minute the site is at `https://victorreyesgit.github.io/Projects/`.
+   The admin page is at `https://victorreyesgit.github.io/Projects/admin.html` (also reachable from the **⚙ Admin** button on the site).
 
 Cloudflare Pages also works (connect the repo, no build command, output directory `/`). The admin settings in `admin.js` still point to the GitHub repo.
 
@@ -23,7 +23,7 @@ Cloudflare Pages also works (connect the repo, no build command, output director
 3. **Generate new token**. Name: `projects-hub-admin`.
 4. **Expiration**: pick a short one (30 or 90 days). Avoid "no expiration".
 5. **Resource owner**: `victorreyesgit`.
-6. **Repository access → Only select repositories** → choose `Home`.
+6. **Repository access → Only select repositories** → choose `Projects` (and `Research`).
 7. **Permissions → Repository permissions → Contents: Read and write**. Leave everything else as "No access" (Metadata read-only is added automatically).
 8. **Generate token** and copy it (starts with `github_pat_`). GitHub shows it only once.
 
