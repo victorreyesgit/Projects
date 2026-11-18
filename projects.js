@@ -69,6 +69,12 @@ window.PROJECTS = {
           "description": "Playground based on the Jet d'Eau in Geneva, you can explore the height difference depending on variables as liters of water, power used...",
           "url": "https://victorreyesgit.github.io/Jet-d-eau/",
           "visible": true
+        },
+        {
+          "title": "Physics Playground",
+          "description": "Five interactive physics explorers (cannon, buoyancy, slingshot, spring and pendulum) with live sliders and formulas",
+          "url": "https://victorreyesgit.github.io/physics-playground/",
+          "visible": true
         }
       ]
     },
