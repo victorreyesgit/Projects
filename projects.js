@@ -73,7 +73,7 @@ window.PROJECTS = {
         {
           "title": "Physics Playground",
           "description": "Five interactive physics explorers (cannon, buoyancy, slingshot, spring and pendulum) with live sliders and formulas",
-          "url": "https://victorreyesgit.github.io/physics-playground/",
+          "url": "https://victorreyesgit.github.io/Physics_Playground/",
           "visible": true
         }
       ]
